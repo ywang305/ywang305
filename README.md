@@ -10,4 +10,5 @@ I like rainy days and think people are cool.
 
 ---
 
+Eat them all!
 ![contribution-snake](https://github.com/ywang305/ywang305/blob/output/github-snake.gif?raw=true)
