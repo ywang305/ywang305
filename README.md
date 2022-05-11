@@ -13,15 +13,13 @@ I like rainy days and think people are cool.
 Eat the blocks
 
 ![contribution-snake](https://github.com/ywang305/ywang305/blob/output/github-snake.gif?raw=true)
+<img align="right" alt="GIF" width="8%" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ---
-<a href="https://github.com/ywang305">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ywang305&show_icons=true&theme=tokyonight&count_private=true" />
-</a>
-<a href="https://github.com/ywang305">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ywang305&show_icons=true&theme=radical&count_private=true&layout=compact" />
-</a>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
+<img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=ywang305&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ywang305&show_icons=true&theme=radical&count_private=true&layout=compact&hide_border=true"/>
+
 
 
 
