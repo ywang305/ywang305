@@ -17,10 +17,8 @@ Eat the blocks
 
 ![contribution-snake](https://github.com/ywang305/ywang305/blob/output/github-snake.gif?raw=true)
 
-
----
-![stats](https://github-readme-stats.vercel.app/api?username=ywang305&show_icons=true&theme=tokyonight&count_private=true)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywang305&show_icons=true&theme=radical&count_private=true&layout=compact)
+<!-- ![stats](https://github-readme-stats.vercel.app/api?username=ywang305&show_icons=true&theme=tokyonight&count_private=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywang305&show_icons=true&theme=radical&count_private=true&layout=compact) -->
 
 
 
