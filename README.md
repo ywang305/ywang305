@@ -2,7 +2,8 @@
 
 
 I'm a developer from 🇨🇳, currently living in New York.
-I like rainy days and think people are cool.
+I like rainy days and think people are cool. 
+<img align="right" alt="GIF" width="15%" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I use these bad boys to build stuff
 
@@ -13,12 +14,11 @@ I like rainy days and think people are cool.
 Eat the blocks
 
 ![contribution-snake](https://github.com/ywang305/ywang305/blob/output/github-snake.gif?raw=true)
-<img align="right" alt="GIF" width="8%" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
 
 ---
-
-<img align="left" height="195" src="https://github-readme-stats.vercel.app/api?username=ywang305&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ywang305&show_icons=true&theme=radical&count_private=true&layout=compact&hide_border=true"/>
+![stats](https://github-readme-stats.vercel.app/api?username=ywang305&show_icons=true&theme=tokyonight&count_private=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ywang305&show_icons=true&theme=radical&count_private=true&layout=compact)
 
 
 
