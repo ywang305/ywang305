@@ -1,7 +1,7 @@
 
 ## 👋 G'day, I'm Yao⚡️   <img alt="GIF" width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=ywang305&show_icons=true&theme=tokyonight&count_private=true&layout=compact" /> 
 
-I like rainy days and think people are cool. 
+I like rainy days and think AIs are cool. 
 
 <img alt="gif" width="125" align="left" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
