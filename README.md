@@ -1,5 +1,5 @@
 
-## 👋 G'day, I'm Yao⚡️   <img alt="GIF" width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=ywang305&show_icons=true&theme=tokyonight&count_private=true&layout=compact" /> 
+## 👋 G'day⚡️   <img alt="GIF" width="400" align="right" src="https://github-readme-stats.vercel.app/api?username=ywang305&show_icons=true&theme=tokyonight&count_private=true&layout=compact" /> 
 
 I like rainy days and think AIs are cool. 
 
